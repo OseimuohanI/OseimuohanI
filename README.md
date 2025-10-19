@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h3>The name is Oseimuohan Itua</h3>
-<h4> My Languages Inlcude:</h4>
+<h4> My Languages are:</h4>
  <a href="#">
     <img src="html.svg" alt="html" style="vertical-align:top margin:6px 4px">
   </a>  
