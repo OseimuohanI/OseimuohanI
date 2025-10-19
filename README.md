@@ -15,7 +15,7 @@
   </a>  
   <h4>I work using:</h4>
    <a href="#">
-    <img src="visualstudio.svg" alt="vs code" style="vertical-align:top margin:6px 4px">
+    <img src="visualstudio_code.svg" alt="vs code" style="vertical-align:top margin:6px 4px">
   </a>  
    <a href="#">
     <img src="bash.svg" alt="bash" style="vertical-align:top margin:6px 4px">
