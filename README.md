@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+ <a href="#">
+    <img src="js.svg" alt="js" style="vertical-align:top margin:6px 4px">
+  </a>  
 <!--
 **OseimuohanI/OseimuohanI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
