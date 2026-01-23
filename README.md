@@ -20,7 +20,7 @@
    <a href="#">
     <img src="bash.svg" alt="bash" style="vertical-align:top margin:6px 4px">
   </a>  
-  <h4> Im currently learning:</h4>
+  <h4> I'm currently learning:</h4>
    <a href="#">
     <img src="laravel.svg" alt="laravel" style="vertical-align:top margin:6px 4px">
   </a>  
