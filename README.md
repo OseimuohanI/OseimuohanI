@@ -26,6 +26,7 @@
   <h4> I'm currently learning:</h4>
    <a href="#">
     <img src="python.svg" alt="Python" style="vertical-align:top margin:6px 4px">
+    <img src="csharp_dotnet.svg" alt="C#" style="vertical-align:top margin:6px 4px">
   </a>  
 <!--
 **OseimuohanI/OseimuohanI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
