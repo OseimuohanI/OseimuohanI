@@ -1,7 +1,12 @@
 ## Hi there 👋
 <h3>The name is Oseimuohan Itua</h3>
+
+<a href="#">
+    <img src="mysql-icon.svg" alt="mysql" style="vertical-align:top margin:6px 4px">
+</a> 
 <!--
 **OseimuohanI/OseimuohanI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
