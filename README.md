@@ -35,7 +35,7 @@ I’m a software developer based in **Lagos, Nigeria** — passionate about buil
 ## 📈 Currently
 
 - 📚 Studying and sharpening my systems + full-stack skills
-- 🏗️ Building **[QuickBit](https://oseimuohani.github.io)** — a web & app development studio
+<!-- - 🏗️ Building **[QuickBit](https://oseimuohani.github.io)** — a web & app development studio -->
 - 🌍 Open to collaborations and interesting projects
 
 -----
