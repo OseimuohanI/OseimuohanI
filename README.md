@@ -44,3 +44,7 @@ I’m a software developer based in **Lagos, Nigeria** — passionate about buil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oseimuohan-itua-88483a380)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://oseimuohani.github.io)
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/449cdaed-9ec5-4030-af89-312e23594d75/thumbnail" >
+</p>
