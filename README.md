@@ -1,6 +1,6 @@
 # Hey, I’m Oseimuohan 👋
 
-I’m a software developer based in **Lagos, Nigeria** — passionate about building things that actually work, from low-level systems to full-stack web apps.
+I’m a software developer — passionate about building things that actually work, from low-level systems to full-stack web apps.
 
 -----
 
