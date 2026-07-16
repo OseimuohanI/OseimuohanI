@@ -4,7 +4,7 @@ I’m a software developer — passionate about building things that actually wo
 
 -----
 
-## 🛠 What I Work With
+## What I Work With
 
 **Languages**
 
@@ -24,7 +24,7 @@ I’m a software developer — passionate about building things that actually wo
 
 -----
 
-## 🔭 What I’ve Been Building
+## What I’ve Been Building
 
 - **[HTTP/1.1 Server](https://github.com/OseimuohanI/HTTP-1.1)** — A tiny HTTP server built directly on TCP sockets in C. No libraries, just raw networking.
 - **[Resource Management System](https://github.com/OseimuohanI/Resource-Management-System)** — Full-stack app built with Laravel and React/TypeScript.
@@ -33,7 +33,7 @@ I’m a software developer — passionate about building things that actually wo
 
 -----
 
-## 📈 Currently
+## Currently
 
 - 📚 Studying and sharpening my systems + full-stack skills
 <!-- - 🏗️ Building **[QuickBit](https://oseimuohani.github.io)** — a web & app development studio -->
@@ -41,7 +41,7 @@ I’m a software developer — passionate about building things that actually wo
 
 -----
 
-## 📬 Find Me
+## Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oseimuohan-itua-88483a380)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://oseimuohani.github.io)
