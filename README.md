@@ -22,10 +22,10 @@ I write software, mostly full-stack web apps, sometimes lower in the stack.
 
 ## What I've been building
 
-- **HTTP/1.1 Server**: a small HTTP server built directly on TCP sockets in C. No libraries, just raw networking.
-- **Resource Management System**: a full-stack app built with Laravel and React/TypeScript.
-- **Premiere Electric**: a full-stack business site built with Bootstrap and C#.
-- **Uninformed Search Strategies**: an interactive Python demo of classic AI search algorithms.
+- **[HTTP/1.1 Server](https://github.com/OseimuohanI/HTTP-1.1)**: a small HTTP server built directly on TCP sockets in C. No libraries, just raw networking.
+- **[Resource Management System](https://github.com/OseimuohanI/Resource-Management-System)**: a full-stack app built with Laravel and React/TypeScript.
+- **[Premiere Electric](https://github.com/OseimuohanI/Premiere-Electric)**: a full-stack business site built with Bootstrap and C#.
+- **[Uninformed Search Strategies](https://github.com/OseimuohanI/CSC-309)**: an interactive Python demo of classic AI search algorithms.
 
 ## Currently
 
@@ -33,5 +33,5 @@ Studying and sharpening my systems and full-stack skills. Open to collaborating 
 
 ## Find me
 
-LinkedIn: oseimuohan-itua-88483a380
-Portfolio: oseimuohani.github.io
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oseimuohan-itua-88483a380)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://oseimuohani.github.io)
